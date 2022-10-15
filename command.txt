@@ -1,8 +1,8 @@
-git init
-git add README.md
-git status
-git remote add origin repoName
-git push origin master
+git init   ----(Create git project)
+git add README.md  (Add untrack to stage area)
+git status (check status)
+git remote add origin repoName (Link out local project to Github)
+git push origin master( Local files availbe on Github)
 git clone repoName
 git pull origin master
 git commit -m "first commit"
