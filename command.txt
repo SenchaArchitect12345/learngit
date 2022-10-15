@@ -4,7 +4,7 @@ git status (check status)
 git remote add origin repoName (Link out local project to Github)
 git push origin master( Local files availbe on Github)
 git clone repoName
-git pull origin master
+git pull origin master(Take code from repository to local if any new file added  in repository)
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/SenchaArchitect12345/Github-learning.git
