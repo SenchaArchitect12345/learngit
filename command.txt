@@ -1,0 +1,21 @@
+git init
+git add README.md
+git status
+git remote add origin repoName
+git push origin master
+git clone repoName
+git pull origin master
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/SenchaArchitect12345/Github-learning.git
+git push -u origin main
+
+
+
+Open the command line.
+
+Set your username:
+git config --global user.name "Ashish"
+
+Set your email address:
+git config --global user.email "abc@gmail.com"
